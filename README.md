@@ -1,42 +1,32 @@
-# Pokémon Gold and Silver [![Build Status][travis-badge]][travis]
+# Pokémon Gold and Silver
 
-This is a disassembly of Pokémon Gold and Pokémon Silver.
+This is an in-progress Esperanto translation of Pokémon Gold and Silver, forked from [pret's disassembly][original].
 
-It builds the following ROMs:
+It builds the following ROM:
 
-- Pokemon - Gold Version (UE) [C][!].gbc `sha1: d8b8a3600a465308c9953dfa04f0081c05bdcb94`
-- Pokemon - Silver Version (UE) [C][!].gbc `sha1: 49b163f7e57702bc939d642a18f591de55d92dae`
-- mons2_gld_ps3_debug.bin `sha1: 53783c57378122805c5b4859d19e1a224f02a1ed`
-- mons2_slv_ps3_debug.bin `sha1: 4c2fafebdbc7551f4cd3f348bdd17e420b93b6e7`
+- Pokemon Gold (UE) (Eo).gbc `sha256: TBA`
+- Pokemon Silver (UE) (Eo).gbc `sha256: TBA`
+- mons2_gld_ps3_debug.bin `sha256: TBA`
+- mons2_slv_ps3_debug.bin `sha256: TBA`
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
+To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 
 ## See also
 
-- **Discord:** [pret][discord]
-- **IRC:** [freenode#pret][irc]
-
-Other disassembly projects:
+Other Pokémon Esperanto translation projects:
 
 - [**Pokémon Red/Blue**][pokered]
 - [**Pokémon Yellow**][pokeyellow]
 - [**Pokémon Crystal**][pokecrystal]
-- [**Pokémon Pinball**][pokepinball]
-- [**Pokémon TCG**][poketcg]
-- [**Pokémon Ruby**][pokeruby]
-- [**Pokémon FireRed**][pokefirered]
+- [**Pokémon Ruby/Sapphire**][pokeruby]
+- [**Pokémon FireRed/LeafGreen**][pokefirered]
 - [**Pokémon Emerald**][pokeemerald]
 
-[pokered]: https://github.com/pret/pokered
-[pokeyellow]: https://github.com/pret/pokeyellow
-[pokecrystal]: https://github.com/pret/pokecrystal
-[pokepinball]: https://github.com/pret/pokepinball
-[poketcg]: https://github.com/pret/poketcg
-[pokeruby]: https://github.com/pret/pokeruby
-[pokefirered]: https://github.com/pret/pokefirered
-[pokeemerald]: https://github.com/pret/pokeemerald
-[discord]: https://discord.gg/d5dubZ3
-[irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
-[travis]: https://travis-ci.org/pret/pokegold
-[travis-badge]: https://travis-ci.org/pret/pokegold.svg?branch=master
+[pokered]: https://github.com/waicalibre/pokered-eo
+[pokeyellow]: https://github.com/waicalibre/pokeyellow-eo
+[original]: https://github.com/pret/pokegold
+[pokecrystal]: https://github.com/waicalibre/pokecrystal-eo
+[pokeruby]: https://github.com/waicalibre/pokeruby-eo
+[pokefirered]: https://github.com/waicalibre/pokefirered-eo
+[pokeemerald]: https://github.com/waicalibre/pokeemerald-eo
