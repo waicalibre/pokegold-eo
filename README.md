@@ -12,6 +12,10 @@ It builds the following ROM:
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 
+## Progress
+The translation has not started yet.
+
+
 ## See also
 
 Other Pokémon Esperanto translation projects:
